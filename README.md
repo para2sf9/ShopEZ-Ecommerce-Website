@@ -270,7 +270,8 @@ http://localhost:8000
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1d579a50-c4bf-4bd0-9b29-b5c877b673ab" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c942fa52-3a77-4b8c-a71c-b46365190f59" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7184de68-6f69-4d47-9378-babe4a8d15ea" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/88bde91c-d70d-4a0b-b1bd-499e2e3247cc" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d347cad6-48ec-4d46-9747-9a6f9783690e" />
+
 <b>Google Drive Link</b>
 https://drive.google.com/drive/folders/1X8-e2dXzYIYmwLr1QZhR2ABJfuMaxDGd?usp=drive_link
 
