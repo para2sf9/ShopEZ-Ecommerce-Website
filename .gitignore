@@ -2,3 +2,10 @@
 *.css.map
 *.sass.map
 *.scss.map
+node_modules/
+dist/
+.env
+uploads/*
+!uploads/.gitkeep
+*.log
+.DS_Store
